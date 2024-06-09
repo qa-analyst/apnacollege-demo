@@ -6,5 +6,5 @@
      
       <class name="TestMobile.LoginTestScript"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test> 
+</suite> 
